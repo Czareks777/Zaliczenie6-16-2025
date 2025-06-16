@@ -1,0 +1,15 @@
+C:\Users\czare\source\repos\Flyweight\bin\Debug\net6.0-windows\Flyweight.exe
+C:\Users\czare\source\repos\Flyweight\bin\Debug\net6.0-windows\Flyweight.deps.json
+C:\Users\czare\source\repos\Flyweight\bin\Debug\net6.0-windows\Flyweight.runtimeconfig.json
+C:\Users\czare\source\repos\Flyweight\bin\Debug\net6.0-windows\Flyweight.dll
+C:\Users\czare\source\repos\Flyweight\bin\Debug\net6.0-windows\Flyweight.pdb
+C:\Users\czare\source\repos\Flyweight\obj\Debug\net6.0-windows\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czare\source\repos\Flyweight\obj\Debug\net6.0-windows\Flyweight.AssemblyInfoInputs.cache
+C:\Users\czare\source\repos\Flyweight\obj\Debug\net6.0-windows\Flyweight.AssemblyInfo.cs
+C:\Users\czare\source\repos\Flyweight\obj\Debug\net6.0-windows\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\czare\source\repos\Flyweight\obj\Debug\net6.0-windows\Flyweight.sourcelink.json
+C:\Users\czare\source\repos\Flyweight\obj\Debug\net6.0-windows\Flyweight.dll
+C:\Users\czare\source\repos\Flyweight\obj\Debug\net6.0-windows\refint\Flyweight.dll
+C:\Users\czare\source\repos\Flyweight\obj\Debug\net6.0-windows\Flyweight.pdb
+C:\Users\czare\source\repos\Flyweight\obj\Debug\net6.0-windows\Flyweight.genruntimeconfig.cache
+C:\Users\czare\source\repos\Flyweight\obj\Debug\net6.0-windows\ref\Flyweight.dll
